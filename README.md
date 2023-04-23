@@ -5,6 +5,7 @@ Como executar via CMD:
 cd menuhub
 venv\Scripts\activate
 python manage.py runserver
+```
 
 Caso falte alguma ferramenta:
 ```
